@@ -7,7 +7,7 @@ IT'S A PJs HOME IN THE CODE WORLD
              in China and the world.
              
              
-             It's will provide higher quality and more professional employers in artificial intelligent future 
+             It will provide higher quality and more professional employers in artificial intelligent future 
              for our countries to promote our next generation to adapting to societies prograss and national prosperity.
              
              
