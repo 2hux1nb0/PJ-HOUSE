@@ -3,7 +3,7 @@ IT'S A PJs HOME IN THE CODE WORLD
 
          >------------------------------------------------- ShiZhe -------------------------------------------------<
          
-             ShiZhe is a tromenders Java web program about education platform,which focus on future education
+             ShiZhe is a tremendous Java web program about education platform,which focus on future education
              in China and the world.
              
              
